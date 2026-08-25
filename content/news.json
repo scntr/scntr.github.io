@@ -1,0 +1,18 @@
+[
+  {
+    "id": "community-launch",
+    "title": "Welcome to SAP Community Türkiye",
+    "description": "Stay up to date with local SAP events and activities organized by the local community. Find announcements for upcoming events and activities, and explore past sessions by event type and city.",
+    "externalLink": "",
+    "externalLinkText": "",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "event-archive",
+    "title": "Explore the event archive",
+    "description": "Browse past sessions by event type and city, then open the available presentations.",
+    "date": "2026-08-25",
+    "externalLink": "events/",
+    "externalLinkText": "Browse Local Events"
+  }
+]

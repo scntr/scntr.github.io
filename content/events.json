@@ -1,0 +1,467 @@
+[
+  {
+    "id": "sitist-2025",
+    "title": "SAP Inside Track Istanbul 2025",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Yeditepe University, Faculty of Fine Arts Conference Hall",
+    "date": "2025-05-10",
+    "status": "past",
+    "image": "resources/sitist-2025-poster.png",
+    "imageAlt": "SAP Inside Track Istanbul 2025 event poster",
+    "agenda": [
+      {
+        "startTime": "10:00",
+        "endTime": "10:30",
+        "title": "ABAP Unit Testing: Zapping Bugs in ERP and BTP",
+        "speakers": ["Kerem Köseoğlu"],
+        "speakerLinks": ["https://www.linkedin.com/in/keremkoseoglu/"],
+        "presentationLinks": ["events/sitist/2025/resources/ABAP Unit Testing: Zapping Bugs in ERP and BTP.pdf"]
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:00",
+        "title": "Designing for Excellence: SAP's Architecture Center for Partners and Customers",
+        "speakers": ["Alper Dedeoğlu"],
+        "speakerLinks": ["https://www.linkedin.com/in/alper-dedeoglu/"],
+        "presentationLinks": ["events/sitist/2025/resources/SAP Architecture Center - SAP Inside Track Istanbul.pdf"]
+      },
+      {
+        "startTime": "11:20",
+        "endTime": "12:30",
+        "title": "Integrating Systems to Talk Smarter: EDA, SAP BTP and Advanced Event Mesh in Action",
+        "speakers": ["Barış Büyüktanır", "Deniz Zilyas"],
+        "speakerLinks": ["https://www.linkedin.com/in/barisbt/", "https://www.linkedin.com/in/deniz-zilyas/"],
+        "presentationLinks": ["events/sitist/2025/resources/Integrating Systems to Talk Smarter.pdf"]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:10",
+        "title": "SAP BTP for Developers: Tools, Services, and Architecture Explained",
+        "speakers": ["Abdulbasıt Gülşen"],
+        "speakerLinks": ["https://www.linkedin.com/in/abdulbasitg/"],
+        "presentationLinks": ["events/sitist/2025/resources/SAP Business Technology Platform for Developers - Abdulbasit Gulsen - SITIST 2025.pdf"]
+      },
+      {
+        "startTime": "14:10",
+        "endTime": "14:50",
+        "title": "End-to-End SAP Cloud Identity Services with IAS, IPS and IAG",
+        "speakers": ["Mehmet Said Demir", "Abdulbasıt Gülşen"],
+        "speakerLinks": ["https://www.linkedin.com/in/saidmehmet/", "https://www.linkedin.com/in/abdulbasitg/"],
+        "presentationLinks": [
+          "events/sitist/2025/resources/Identity Access Governance.pdf",
+          "events/sitist/2025/resources/SAP Cloud Identity Services - Abdulbasit Gulsen - SITIST 2025.pdf"
+        ]
+      },
+      {
+        "startTime": "15:10",
+        "endTime": "15:40",
+        "title": "SAP Community",
+        "speakers": ["Hilal Kurt"],
+        "speakerLinks": ["https://www.linkedin.com/in/hilal-kurt-804ab9186/"],
+        "presentationLinks": ["events/sitist/2025/resources/SAP Community Overview.pdf"]
+      },
+      {
+        "startTime": "15:40",
+        "endTime": "16:10",
+        "title": "Leverage Google Services and AI in SAP with the ABAP SDK",
+        "speakers": ["Alper Akbal", "Abit Yıldız"],
+        "speakerLinks": ["https://www.linkedin.com/in/alper-akbal/", "https://www.linkedin.com/in/abityildiz/"],
+        "presentationLinks": [
+          "events/sitist/2025/resources/ABAP SDK for Google.pdf",
+          "events/sitist/2025/resources/SAP ABAP SDK for Google Cloud.pdf"
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "title": "Changing the Game with SAP Business AI, Build Your Own Smart Agents",
+        "speakers": ["Barış Arslan"],
+        "speakerLinks": ["https://www.linkedin.com/in/xbarslan/"],
+        "presentationLinks": ["events/sitist/2025/resources/Changing the Game with SAP Business AI - Build your own Smart Agents.pdf"]
+      }
+    ]
+  },
+  {
+    "id": "sitank-ankara-2026",
+    "title": "SAP Inside Track Ankara - 2026",
+    "type": "SAP Inside Track",
+    "city": "Ankara",
+    "location": "TED University",
+    "date": "2026-10-10",
+    "status": "upcoming",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2026",
+    "title": "SAP Inside Track İstanbul - 2026",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "To Be Announced",
+    "date": "To Be Announced",
+    "status": "upcoming",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2010",
+    "title": "SAP Inside Track Istanbul 2010",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "SAP Türkiye",
+    "date": "2010-10-06",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2011",
+    "title": "SAP Inside Track Istanbul 2011",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "SAP Türkiye",
+    "date": "2011-12-03",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2013",
+    "title": "SAP Inside Track Istanbul 2013",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "SAP Türkiye",
+    "date": "2013-02-16",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2014",
+    "title": "SAP Inside Track Istanbul 2014",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "SAP Innovation Center",
+    "date": "2014-12-12",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2015",
+    "title": "SAP Inside Track Istanbul 2015",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "İstanbul Şehir University",
+    "date": "2015-12-12",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2016-functional",
+    "title": "SAP Inside Track Istanbul 2016 - Functional",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "İstanbul Şehir University",
+    "date": "2016-03-12",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2016-developer",
+    "title": "SAP Inside Track Istanbul 2016 - Developer",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Koçsistem",
+    "date": "2016-12-10",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2017-functional",
+    "title": "SAP Inside Track Istanbul 2017 - Functional",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Koçsistem",
+    "date": "2017-04-22",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2017-developer",
+    "title": "SAP Inside Track Istanbul 2017 - Developer",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Innova & ITU ARI Teknokent",
+    "date": "2017-12-09",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2018-04",
+    "title": "SAP Inside Track Istanbul 2018",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Itelligence Türkiye",
+    "date": "2018-04-28",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2018-12",
+    "title": "SAP Inside Track Istanbul 2018",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Bahçeşehir University",
+    "date": "2018-12-01",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2019-04",
+    "title": "SAP Inside Track Istanbul 2019",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "İstanbul Şehir University",
+    "date": "2019-04-27",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2019-11",
+    "title": "SAP Inside Track Istanbul 2019",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Koçsistem",
+    "date": "2019-11-23",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2020",
+    "title": "SAP Inside Track Istanbul 2020",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Online",
+    "date": "2020-12-18",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2021",
+    "title": "SAP Inside Track Istanbul 2021",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "Online",
+    "date": "2021-12-17",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-istanbul-2024",
+    "title": "SAP Inside Track Istanbul 2024",
+    "type": "SAP Inside Track",
+    "city": "İstanbul",
+    "location": "NTT Data Business Solutions Türkiye",
+    "date": "2024-09-28",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-ankara-2011",
+    "title": "SAP Inside Track Ankara 2011",
+    "type": "SAP Inside Track",
+    "city": "Ankara",
+    "location": "ODTÜ Teknokent",
+    "date": "2011-05-07",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-ankara-2012",
+    "title": "SAP Inside Track Ankara 2012",
+    "type": "SAP Inside Track",
+    "city": "Ankara",
+    "location": "ODTÜ Teknokent",
+    "date": "2012-05-12",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "sitist-ankara-2018",
+    "title": "SAP Inside Track Ankara 2018",
+    "type": "SAP Inside Track",
+    "city": "Ankara",
+    "location": "TED University",
+    "date": "2018-05-05",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2012-sap-mobile-hana",
+    "title": "SAP Mobile & SAP HANA",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "SAP Türkiye",
+    "date": "2012-09-08",
+    "status": "past",
+    "speakers": ["Craig Cmehil"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2014-abap-hana",
+    "title": "ABAP on HANA",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Centrum Suadiye",
+    "date": "2014-01-18",
+    "status": "past",
+    "speakers": ["Jens Weiler", "Jasmin Gruschke"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2015-abap-hana-fundamental",
+    "title": "ABAP for SAP HANA Fundamental",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Centrum Suadiye",
+    "date": "2015-05-09",
+    "status": "past",
+    "speakers": ["Jasmin Gruschke", "Thomas Gauweiler"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2015-abap-hana-fiori",
+    "title": "ABAP for SAP HANA with Fiori",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Istanbul Sehir Üniversitesi",
+    "date": "2015-07-25",
+    "status": "past",
+    "speakers": ["Ingo Braeuninger", "Andreas Gruenhagen"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2016-sapui5-web-ide",
+    "title": "SAPUI5 with SAP Web IDE",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Istanbul Sehir Üniversitesi",
+    "date": "2016-02-13",
+    "status": "past",
+    "speakers": ["Denise Nepraunig"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2016-hana-iot",
+    "title": "SAP HANA with IoT",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Istanbul Sehir Üniversitesi",
+    "date": "2016-04-25",
+    "status": "past",
+    "speakers": ["Vitaliy Rudnytskiy"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2018-hana-geospatial",
+    "title": "SAP HANA and Geospatial Data Processing",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Foriba",
+    "date": "2018-05-26",
+    "status": "past",
+    "speakers": ["Vitaliy Rudnytskiy"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2019-cap-nodejs",
+    "title": "SAP Cloud Application Programming Model with NodeJS",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Foriba",
+    "date": "2019-09-07",
+    "status": "past",
+    "speakers": ["DJ Adams", "Max Streifeneder"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2023-machine-learning-hana-python",
+    "title": "Machine Learning using SAP HANA and Python",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Sovos",
+    "date": "2023-12-16",
+    "status": "past",
+    "speakers": ["Vitaliy Rudnytskiy"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-istanbul-2025-ai-hana-cloud",
+    "title": "Foundations of AI Applications with SAP HANA Cloud",
+    "type": "SAP CodeJam",
+    "city": "İstanbul",
+    "location": "Sovos",
+    "date": "2025-12-13",
+    "status": "past",
+    "speakers": ["Vitaliy Rudnytskiy"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-ankara-2015-sapui5",
+    "title": "SAPUI5",
+    "type": "SAP CodeJam",
+    "city": "Ankara",
+    "location": "TED Universitesi",
+    "date": "2015-04-18",
+    "status": "past",
+    "speakers": ["Denise Nepraunig"],
+    "agenda": []
+  },
+  {
+    "id": "codejam-izmir-2014-abap-hana",
+    "title": "ABAP for SAP HANA",
+    "type": "SAP CodeJam",
+    "city": "İzmir",
+    "location": "CMA Consulting",
+    "date": "2014-05-24",
+    "status": "past",
+    "speakers": ["Jasmin Gruschke"],
+    "agenda": []
+  },
+  {
+    "id": "meetup-istanbul-2024-12-06",
+    "title": "Meetup Istanbul",
+    "type": "Meetup",
+    "city": "İstanbul",
+    "location": "Watergarden Midpoint",
+    "date": "2024-12-06",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "meetup-istanbul-2024-05-18",
+    "title": "Meetup Istanbul",
+    "type": "Meetup",
+    "city": "İstanbul",
+    "location": "Caddebostan, PİEN COFFEE",
+    "date": "2024-05-18",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "meetup-istanbul-2024-10-08",
+    "title": "Meetup Istanbul",
+    "type": "Meetup",
+    "city": "İstanbul",
+    "location": "Senkron Sistem Danışmanlık",
+    "date": "2024-10-08",
+    "status": "past",
+    "agenda": []
+  },
+  {
+    "id": "meetup-istanbul-2025-02-14",
+    "title": "Meetup Istanbul",
+    "type": "Meetup",
+    "city": "İstanbul",
+    "location": "Obsesif Kadıköy",
+    "date": "2025-02-14",
+    "status": "past",
+    "agenda": []
+  }
+]
