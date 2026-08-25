@@ -1,0 +1,68 @@
+{
+  "title": "SAP Community Türkiye",
+  "description": "SAP Community Türkiye brings SAP professionals, developers, architects, and enthusiasts together through local events, talks, and community news. Stay up to date with upcoming events and activities, discover opportunities to connect with the SAP community across Türkiye, and explore highlights and recordings from past sessions.",
+  "logo": "resources/SAP Community Turkey.png",
+  "logoAlt": "SAP Community Türkiye logo",
+  "eventDescriptions": {
+    "Events": "Explore upcoming and past events from SAP Community Türkiye.",
+    "SAP Inside Track": "<p><strong>SAP Inside Track Türkiye</strong> is a community-driven event series where SAP professionals, developers, architects, consultants, and enthusiasts come together to share knowledge, experiences, and ideas around SAP technologies and the broader SAP ecosystem.</p> <p>Organized by volunteers from the community, these events aim to create an open and collaborative environment for learning and knowledge sharing, with a focus on real-world experiences, technical deep dives, practical demos, lessons learned, and discussions led by community members and SAP experts rather than traditional marketing.</p> <p>SAP Inside Track events are held in different cities across Türkiye, bringing the local SAP community together and connecting it with the broader network. Everyone is welcome to participate—as an attendee, speaker, contributor, or organizer—and all events are free to attend.</p> <p>Discover upcoming and past SAP Inside Track events, explore sessions and speakers, and learn from the knowledge shared by the SAP community across Türkiye.</p>",
+    "SAP CodeJam": "<p><strong>SAP CodeJam</strong> is a hands-on, community-focused event where developers, architects, and technology enthusiasts come together to learn, experiment, and build with SAP technologies.</p> <p>CodeJam events provide an opportunity to explore SAP technologies through practical exercises, coding sessions, technical discussions, and guidance from experienced SAP experts and community members. Rather than focusing on presentations alone, the emphasis is on <strong>learning by doing</strong>, giving participants the chance to work directly with the technologies and ask questions along the way.</p> <p>CodeJam events are organized in different cities across Türkiye, often in collaboration with local community members, organizations, and SAP experts. Everyone is welcome to participate, whether you are an experienced developer or looking to get hands-on experience with a new SAP technology.</p> <p>Discover upcoming and past SAP CodeJam events, explore the technologies covered, and learn from the hands-on experiences shared by the SAP developer community across Türkiye.</p>",
+    "Meetup": "<p><strong>SAP Community Türkiye Meetups</strong> are informal, community-driven gatherings that bring SAP professionals, developers, architects, consultants, and enthusiasts together to connect, exchange ideas, and share experiences.</p> <p>Meetups provide a more relaxed setting for community members to discuss SAP technologies, projects, trends, challenges, and real-world experiences. Depending on the event, meetups may include short talks, open discussions, networking sessions, or simply an opportunity to meet fellow SAP professionals and get to know the local community.</p> <p>Meetups are organized by community volunteers in different cities and locations across Türkiye, helping build stronger local connections while bringing together people with shared interests. Everyone is welcome to join, participate in discussions, share their experiences, or help organize future meetups.</p> <p>Discover upcoming and past meetups, find events happening near you, and connect with the SAP community across Türkiye.</p>"
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "href": "index.html"
+    },
+    {
+      "id": "events",
+      "label": "Events",
+      "href": "events/"
+    },
+    {
+      "id": "who-we-are",
+      "label": "Who We Are?",
+      "href": "who-we-are.html"
+    },
+    {
+      "id": "sap-inside-track",
+      "label": "SAP Inside Track",
+      "href": "events/?type=SAP%20Inside%20Track"
+    },
+    {
+      "id": "sap-codejam",
+      "label": "SAP CodeJam",
+      "href": "events/?type=SAP%20CodeJam"
+    },
+    {
+      "id": "meetup",
+      "label": "Meetup",
+      "href": "events/?type=Meetup"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp Community",
+      "href": "https://chat.whatsapp.com/KuSSrOM7DOk272mUBW9Jkm",
+      "icon": "resources/whatsapp.svg"
+    }
+  ],
+  "whoWeAre": {
+    "title": "Who We Are?",
+    "description": "<p>SAP Community Türkiye is a volunteer-driven, non-profit community bringing SAP professionals, developers, architects, students, and enthusiasts together to learn, share experiences, and grow the SAP ecosystem across Türkiye.</p><p>Since 2010, we have been organizing community-led events, talks, and activities with a simple goal: creating opportunities for people to connect, exchange knowledge, and learn from each other. We are a non-marketing community, and our activities are organized by volunteers who contribute their time, experience, and passion to the community.</p><p>Everyone is welcome to join and participate. Whether you want to attend an event, share your knowledge, give a talk, or help organize future activities, there is a place for you in the community. All of our events are free to attend.</p><p>You can also join our WhatsApp community to stay connected with other members, follow community announcements, and keep up with upcoming events and activities. Everyone is welcome to join.</p><p><a target='_blank' href='https://chat.whatsapp.com/KuSSrOM7DOk272mUBW9Jkm'>** Join the SAP Community Türkiye WhatsApp Community **</a></p><p>Come along, meet the community, share what you know, learn something new, and help us keep the SAP community in Türkiye growing.</p>",
+    "highlights": [
+      {
+        "title": "Learn together",
+        "description": "Discover talks, workshops, and practical sessions led by community members."
+      },
+      {
+        "title": "Share what you know",
+        "description": "Contribute your experience and help others solve real SAP challenges."
+      },
+      {
+        "title": "Connect locally",
+        "description": "Meet SAP professionals, developers, architects, and enthusiasts at events across Türkiye."
+      }
+    ]
+  }
+}

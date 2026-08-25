@@ -1,0 +1,18 @@
+[
+  {
+    "id": "community-launch",
+    "title": "SAP Community Türkiye'ye hoş geldiniz",
+    "description": "Yerel topluluk tarafından düzenlenen SAP etkinliklerinden ve faaliyetlerinden haberdar olun. Yaklaşan etkinlik ve faaliyet duyurularını bulun, geçmiş oturumları etkinlik türü ve şehre göre keşfedin.",
+    "externalLink": "",
+    "externalLinkText": "",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "event-archive",
+    "title": "Etkinlik arşivini keşfedin",
+    "description": "Geçmiş oturumlara etkinlik türü ve şehre göre göz atın, ardından mevcut sunumları açın.",
+    "date": "2026-08-25",
+    "externalLink": "events/",
+    "externalLinkText": "Yerel Etkinliklere Göz Atın"
+  }
+]
