@@ -1,0 +1,35 @@
+.ticket {
+	font-family: Arial, sans-serif;
+	display:inline-block;
+	font-size: 30px;
+	background-color: var(--yellow);
+	color: var(--navy);
+	padding: 10px;
+	margin:5px;
+	text-shadow: none;
+	box-sizing: border-box;
+	border-radius: 4px;
+	transition: background .5s;
+	-webkit-transition: background .5s;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select:none;
+	-khtml-user-select:none;
+}
+
+.winners{
+font-family: Arial, sans-serif;display: inline-block;font-size: 10px;background-color: var(--yellow);color: var(--navy);padding: 5px;margin: 1px;
+text-shadow: none;box-sizing: border-box;border-radius: 4px;
+transition: background .5s;-webkit-transition: background .5s;cursor: pointer;-webkit-user-select: none;}
+
+/*.ticket:hover {
+	background: palegreen;
+}*/
+
+.loading{
+	width:675px;
+	text-align: center;
+	margin:50px auto;
+	color:rgba(255,255,255,.5);
+	font-size: 200px;
+}
