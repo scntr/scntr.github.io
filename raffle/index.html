@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SAP Community Türkiye Raffle</title>
+	<script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>	
+	<script src = 'js/jquery-ui-1.8.23.custom.min.js'></script>
+	<script type="text/javascript" src="js/names.js?v=20260901"></script>	
+	<script type="text/javascript" src="js/raffle.js?v=20260901"></script>	
+	<link rel="stylesheet" type="text/css" href="css/style.css?v=20260901">
+	<link rel="stylesheet" type="text/css" href="css/raffle.css?v=20260901">
+</head>
+<body>
+	<header class="header">
+		<div class="header-content">
+			<div class="header-toolbar">
+				<div>
+					<p class="eyebrow">SAP Community Türkiye</p>
+					<div class="participant-summary">
+						<span id="participants">Raffle participants</span>
+						<strong id="participant-number">0</strong>
+					</div>
+				</div>
+				<div class="toolbar" role="toolbar" aria-label="Raffle controls">
+					<button id="start-raffle" class="toolbar-button" type="button" disabled>Start raffle</button>
+				</div>
+			</div>
+			<div id="winnerContainer" aria-live="polite"></div>
+		</div>
+	</header>
+	<div class='enter-names'>
+		<p class="eyebrow">Community raffle</p>
+		<h1>Choose a winner</h1>
+		<label for="name-list">Paste one participant per line</label>
+		<textarea id="name-list" class='name-text-field' spellcheck="false"></textarea>
+		<button type="button" onclick="process();">Import participants</button>
+	</div>
+</body>
+</html>
