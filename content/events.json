@@ -90,7 +90,129 @@
     "location": "TED University",
     "date": "2026-10-10",
     "status": "upcoming",
-    "agenda": []
+    "agenda": [
+      {
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "title": "Registration & Breakfast"
+      },
+      {
+        "startTime": "09:30",
+        "endTime": "09:50",
+        "title": "Welcome & Opening",
+        "speakers": ["Hilal Kurt", "Abdulbasıt Gülşen"],
+        "speakerLinks": ["https://www.linkedin.com/in/hilal-kurt-804ab9186/", "https://www.linkedin.com/in/abdulbasitg/"]
+      },
+      {
+        "startTime": "09:50",
+        "endTime": "10:10",
+        "title": "SAP Community & Developer Center",
+        "speakers": ["Hilal Kurt", "Abdulbasıt Gülşen"],
+        "speakerLinks": ["https://www.linkedin.com/in/hilal-kurt-804ab9186/", "https://www.linkedin.com/in/abdulbasitg/"]
+      },
+      {
+        "startTime": "10:10",
+        "endTime": "10:40",
+        "title": "SAP Cloud Transformation: Digital Core to AI-Driven Enterprise",
+        "speakers": ["Abdulbasıt Gülşen"],
+        "speakerLinks": ["https://www.linkedin.com/in/abdulbasitg/"]
+      },
+      {
+        "startTime": "10:40",
+        "endTime": "11:10",
+        "title": "Extending SAP Solutions with Clean Core",
+        "speakers": ["Hilal Kurt", "Umut Ali Yazıcı"],
+        "speakerLinks": ["https://www.linkedin.com/in/hilal-kurt-804ab9186/", "https://www.linkedin.com/in/umutaliyazici/"]
+      },
+      {
+        "startTime": "11:10",
+        "endTime": "11:30",
+        "title": "Coffee Break"
+      },
+      {
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "title": "Beyond Skills: Rethinking SAP Talent in the AI Era",
+        "speakers": ["Umut Ali Yazıcı"],
+        "speakerLinks": ["https://www.linkedin.com/in/umutaliyazici/"]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "12:30",
+        "title": "Agent Harness Engineering",
+        "speakers": ["Barış Arslan"],
+        "speakerLinks": ["https://www.linkedin.com/in/xbarslan/"]
+      },
+      {
+        "startTime": "12:30",
+        "endTime": "13:00",
+        "title": "AI in Practice: Experiences from SAP Customers",
+        "speakers": ["Serkan Özcan"],
+        "speakerLinks": ["https://www.linkedin.com/in/serkan-ozcan/"]
+      },
+      {
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "title": "Lunch Break"
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:30",
+        "title": "BTP Integration Capabilities with Event-Driven Architecture & AI",
+        "speakers": ["Barış Büyüktanır"],
+        "speakerLinks": ["https://www.linkedin.com/in/barisbt/"]
+      },
+      {
+        "startTime": "14:30",
+        "endTime": "15:00",
+        "title": "A Smooth Transition from SAP PO to Integration Suite",
+        "speakers": ["Ayça Luş"],
+        "speakerLinks": ["https://www.linkedin.com/in/ay%C3%A7a-lu%C5%9F-5a74801b5/"]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:20",
+        "title": "Coffee Break"
+      },
+      {
+        "startTime": "15:20",
+        "endTime": "15:40",
+        "title": "SAP + n8n: From APIs to Intelligent Workflows",
+        "speakers": ["Gizem Ilgar"],
+        "speakerLinks": ["https://www.linkedin.com/in/gzmilgar/"]
+      },
+      {
+        "startTime": "15:40",
+        "endTime": "16:00",
+        "title": "AI-Powered SAP System Analysis",
+        "speakers": ["Volkan Bentürk"],
+        "speakerLinks": ["https://www.linkedin.com/in/volkanbent%C3%BCrk/"]
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "16:20",
+        "title": "Humanless Human Resources",
+        "speakers": ["Batuhan Öngel"],
+        "speakerLinks": ["https://www.linkedin.com/in/batuhanongel/"]
+      },
+      {
+        "startTime": "16:20",
+        "endTime": "16:40",
+        "title": "Coffee Break"
+      },
+      {
+        "startTime": "16:40",
+        "endTime": "17:00",
+        "title": "Governance of On-Premise and Cloud Applications with GRC Access Control and IAG Hybrid Scenario",
+        "speakers": ["Mehmet Said Demir"],
+        "speakerLinks": ["https://www.linkedin.com/in/saidmehmet/"]
+      },
+      {
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "title": "Raffle & Wrap Up"
+      }
+    ]
   },
   {
     "id": "sitist-istanbul-2026",
