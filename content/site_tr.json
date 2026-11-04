@@ -39,12 +39,6 @@
       "id": "meetup",
       "label": "Meetup",
       "href": "events/?type=Meetup"
-    },
-    {
-      "id": "whatsapp",
-      "label": "WhatsApp Topluluğu",
-      "href": "https://chat.whatsapp.com/KuSSrOM7DOk272mUBW9Jkm",
-      "icon": "resources/whatsapp.svg"
     }
   ],
   "whoWeAre": {
